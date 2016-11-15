@@ -1,6 +1,8 @@
 goal:
 
-we are going to make a slack bot that responds to chats and takes images and generates a gallery of images by creating new effects using neural style and deep dream.
+we are going to try and modify a neural network to generate different effects.  then we make a bot that takes requests from a service we choose (slack, reddit,twitter) and generate photo callergy.  
+
+ images will be generated using neural style and deep dream.
 
 be able to test out different visualizations of deep dream and 
 
