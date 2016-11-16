@@ -1,5 +1,14 @@
 # goal:
 
+This project is broken up into 3 sections.
+
+First we will generate a neural network image gallery. The gallery allows you to test out different neural styles and deep dream algorithms.
+
+Secondly we will build a slack bot 
+
+
+Third, we will try and modify deep dream so that we can create our own effects.
+
 we are going to try and modify a neural network to generate different effects.  then we make a bot that takes requests from a service we choose (slack, reddit,twitter) and generate photo callergy.  
 
  images will be generated using neural style and deep dream.
