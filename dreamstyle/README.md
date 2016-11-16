@@ -37,14 +37,14 @@ This should be enough for you to
 
 
 # Why Deep Learning Image Transformation Matters For Advertisers, Marketers, and Designers
-### Machine learning will become a stardard part of the creator toolkit. 
+### Machine learning will become a standard part of the creator toolkit. 
 ###It's not equivalent to a human expert, but it's fast and scalable.
 
 ## What deep learning will enable you to do.
 
 ##### Build Better Products
 
-*People love personalization of products and featuring themselves or friends. ??? examples ???*
+*People love personalization of products and featuring themselves or friends.*
 
 One of a kind products give customers a way to stand out and express themselves. We see these features in products like NIKEiD. But, even in this case the option set is limited. With deep learning to personalization is endless. Perhaps you really, really, really, love your cat.
 ![](https://d17oy1vhnax1f7.cloudfront.net/items/3L0G0o3c3V3R08211S3f/Image%202016-11-15%20at%206.00.59%20PM.png?v=4db6f583)
@@ -87,7 +87,7 @@ Being on the cutting edge is important for an agency's brand as well as the bran
 
 # How Bots Change The Game For Image Transformations
 
-Bots can make deep learning creations accessable from anywhere, which will opens up monetization pathways.
+Bots can make deep learning creations accessible from anywhere, which will opens up monetization pathways.
 
 Unlike many of the popular apps today, that exist in a closed system, open APIs with social buts will lower the level of friction to create a marketing campaign and drive conversions. 
 
@@ -101,6 +101,6 @@ Additionally, image filters can be used to add a more personal tone to interacti
 ##### We Makes Training & Deployment Easy
 Although training remains an art, at Somatic we have built a system to make training new models very easy. You can get started training in just a few steps.
 
-In this exerise, we will demonstrate how easy it is to get a new model up and running.
+In this exercise, we will demonstrate how easy it is to get a new model up and running.
 
 Additionally, we have built out an appended URL api, that takes almost all the work off of the developer for simple applications and customer development and testing.
