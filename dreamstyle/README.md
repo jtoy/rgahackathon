@@ -67,11 +67,9 @@ For example, espnfc.us often uses artistic images to tell stories. While no fast
 ![](https://d17oy1vhnax1f7.cloudfront.net/items/0E0k3b2S3U0J2t0v2V1q/Image%202016-11-15%20at%203.58.56%20PM.png?v=bc63df79)
 
 
-# KEEP WORKING FROM HERE
+##### Nurture Your Cutting Edge Brand
 
-##### Capatalize on Cutting Edge Image
-
-The cutting edge can be engaging and fun, should keep it in the tool kit for the right time. Brands with a digital footprint, a young demo, and a focus on tech may be able to create viral products by relying on the cool/fun factor.
+Being on the cutting edge is important for an agency's brand as well as the brand of individual creatives. Given the growing influence of machine learning, demonstrated knowledge can help build an influencer image. Whether it's chat bots, neural style filters, image search, AlphaGo, or self driver cars, machine learning is driving significant change in the economy. 
 
 * [MIT Nightmare Machine](http://nightmare.mit.edu/)
 
@@ -79,3 +77,21 @@ The cutting edge can be engaging and fun, should keep it in the tool kit for the
 
 
 # How Bots Change The Game For Image Transformations
+
+Bots can make deep learning creations accessable from anywhere, which will opens up monetization pathways.
+
+Unlike many of the popular apps today, that exist in a closed system, open APIs with social buts will lower the level of friction to create a marketing campaign and drive conversions. 
+
+> For example, a printer could create a twitter bot that restyles images. It could present those images in a frame and link directly to the purchase page from the reply tweet.
+
+Additionally, image filters can be used to add a more personal tone to interactions. While it is automated, good filters feel like a human way to interact. Thus, the presentation feels less like a scheduled campaign and more like a 1 on 1 conversation.
+
+
+# How Somatic Can Help
+
+##### We Makes Training & Deployment Easy
+Although training remains an art, at Somatic we have built a system to make training new models very easy. You can get started training in just a few steps.
+
+In this exerise, we will demonstrate how easy it is to get a new model up and running.
+
+Additionally, we have built out an appended URL api, that takes almost all the work off of the developer for simple applications and customer development and testing.
