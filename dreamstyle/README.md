@@ -34,7 +34,72 @@ generate_gallery.sh /path/to/folder
 
 This should be enough for you to
 
+# Part I: Generate a neural network image gallery
 
+# Part II: Building a slackbot
+
+###### Based largely on Full Stack Python's tutorial ["How to Build Your First Slack Bot with Python"](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+
+
+## What you need
+
+* [Python 2 or 3](https://www.fullstackpython.com/python-2-or-3.html)
+* [pip](https://pip.pypa.io/en/stable/) and [virtualenv](https://virtualenv.pypa.io/en/stable/) to handle Python [application dependencies](https://www.fullstackpython.com/application-dependencies.html)
+* [Free Slack account](https://slack.com/) with a team on which you have API access or sign up for the [Slack Developer Hangout team](http://dev4slack.xoxco.com/)
+* Official Python [slackclient](https://github.com/slackhq/python-slackclient) code library built by the Slack team
+* [Slack API testing token](https://api.slack.com/tokens)
+
+## Establishing Our Environment
+
+Go to the terminal (or Command Prompt on Windows) and change into the directory where you want to store this project. 
+
+Within that directory, create a new virtualenv to isolate our application dependencies from other Python projects.
+
+```
+virtualenv starterbot
+```
+
+Activate the virtualenv:
+
+```
+source starterbot/bin/activate
+```
+
+Your prompt should now look like the one in this screenshot.
+
+![](https://www.fullstackpython.com/source/static/img/160604-simple-python-slack-bot/virtualenv-activate.png)
+
+The official slackclient API helper library built by Slack can send and receive messages from a Slack channel. Install the slackclient library with the `pip` command:
+
+```
+pip install slackclient
+```
+
+When `pip` is finished you should see output like this and you'll be back at the prompt.
+
+![](https://www.fullstackpython.com/source/static/img/160604-simple-python-slack-bot/pip-install-slackclient.png)
+
+We also need to obtain an access token for our Slack team so our bot can use it to connect to the Slack API.
+
+## Slack Real Time Messaging (RTM) API
+
+Go to the [Slack web API page](https://api.slack.com/) and sign up to create your own Slack team. You can also sign into an existing account where you have administrative privileges.
+
+
+![](https://www.fullstackpython.com/source/static/img/160604-simple-python-slack-bot/sign-in-slack.png)
+
+After you have signed in go to the [Bot Users page](https://api.slack.com/bot-users).
+
+![](https://www.fullstackpython.com/source/static/img/160604-simple-python-slack-bot/custom-bot-users.png)
+
+Name your bot "starterbot" then click the “Add bot integration” button.
+
+![]()
+
+![]()
+
+
+# Part III: Modify deep dream
 
 # Why Deep Learning Image Transformation Matters For Advertisers, Marketers, and Designers
 ### Machine learning will become a standard part of the creator toolkit. 
